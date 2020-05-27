@@ -14,6 +14,15 @@ const Home = () => (
       <p>Proyecto II</p>
       <p>211762638</p>
     </div>
+    <p>
+      <a
+        href='https://github.com/LuisLiraC/ProductoIntegrador'
+        target='_blank'
+        rel='noopener noreferrer'
+      >
+        Repositorio de este proyecto
+      </a>
+    </p>
   </div>
 )
 
