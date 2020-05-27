@@ -49,8 +49,6 @@ const Unidad3 = () => (
       </p>
       <p><b>Vídeo:</b></p>
       <iframe
-        width='853'
-        height='505'
         src='https://www.youtube.com/embed/y6D3pJna8Wg'
         frameBorder='0'
         allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'

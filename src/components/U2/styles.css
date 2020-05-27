@@ -1,6 +1,7 @@
 #cronograma {
   max-width: 1000px;
   margin: 20px 0px;
+  width: 100%;
 }
 
 .conceptos li {
