@@ -1,0 +1,21 @@
+.data {
+  margin-bottom: 15%;
+}
+
+.data h1 {
+  font-size: 48px;
+}
+
+.data h4 {
+  font-size: 24px;
+}
+
+.data p {
+  font-size: 20px;
+}
+
+.data img {
+  margin-top: 20px;
+  width: 300px;
+}
+
