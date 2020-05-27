@@ -52,9 +52,9 @@ const Unidad3 = () => (
         width='853'
         height='505'
         src='https://www.youtube.com/embed/y6D3pJna8Wg'
-        frameborder='0'
+        frameBorder='0'
         allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture'
-        allowfullscreen
+        allowFullScreen
         title='Proyecto API'
       ></iframe>
     </div>
