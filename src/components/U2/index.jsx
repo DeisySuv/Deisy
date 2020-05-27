@@ -42,6 +42,15 @@ const Unidad2 = () => (
           o historia se completó.
         </li>
       </ul>
+      <p>
+        <a
+          href='https://github.com/LuisLiraC/SprintPlanning'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          Repositorio de Sprint Planning
+        </a>
+      </p>
       <img src={Cronograma} id='cronograma' alt='Cronograma' />
     </div>
   </div>
